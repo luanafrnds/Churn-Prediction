@@ -1,9 +1,9 @@
 # Churn-Prediction
 
-elco Customer Churn Prediction
+Telco Customer Churn Prediction
 🔎 Project Overview
 
-This project analyzes a Telco customer dataset to understand the drivers of customer churn (whether a customer leaves the service). The goal is to uncover business insights and build a machine learning model that can predict churn with high accuracy (>80%).
+This project analyzes a Telco customer dataset to understand the drivers of customer churn (whether a customer leaves the service). The goal is to uncover business insights and build a machine learning model that can predict churn with high accuracy .
 
 🎯 Objectives
 
@@ -34,15 +34,14 @@ StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod
 
 MonthlyCharges, TotalCharges, Churn
 
+
 🛠️ Methods
 
 Exploratory Data Analysis (EDA)
 
-Correlations and statistical tests (Chi-square, correlation matrix).
+Correlations and statistical tests.
 
 Churn rates segmented by contract type, internet service, and monthly charges.
-
-Machine Learning
 
 Preprocessing: categorical encoding, train-test split.
 
@@ -51,6 +50,7 @@ Model: Random Forest Classifier with class balancing.
 Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 
 Feature importance analysis.
+
 
 📈 Key Insights
 
@@ -64,8 +64,6 @@ Customers without TechSupport or OnlineSecurity are more likely to leave.
 
 🤖 Model Performance
 
-Random Forest achieved >80% accuracy with balanced precision and recall.
-
 The most important features for prediction were:
 
 Contract type
@@ -78,13 +76,7 @@ Monthly charges
 
 Tech support availability
 
-🚀 Next Steps
 
-Hyperparameter tuning for improved performance.
-
-Try other models (Logistic Regression, Gradient Boosting, XGBoost).
-
-Build a simple dashboard to visualize churn predictions.
 
 📌 Tools & Libraries
 
