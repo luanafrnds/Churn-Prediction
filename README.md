@@ -1,9 +1,18 @@
-# Churn-Prediction
+# Customer Churn Analysis & Prediction
 
 Telco Customer Churn Prediction
 🔎 Project Overview
+This project aims to predict customer churn for a telecommunications company. By analyzing historical customer data, we can identify key factors that lead to churn and build a machine learning model to predict which customers are at risk. This allows the company to proactively intervene and retain valuable customers.
 
-This project analyzes a Telco customer dataset to understand the drivers of customer churn (whether a customer leaves the service). The goal is to uncover business insights and build a machine learning model that can predict churn with high accuracy .
+The primary goals of this project are:
+
+To understand the main drivers of customer churn.
+
+To build a predictive model that can identify at-risk customers with high accuracy.
+
+To provide actionable insights for business stakeholders.
+
+
 
 🎯 Objectives
 
