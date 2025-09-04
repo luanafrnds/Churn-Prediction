@@ -23,6 +23,7 @@ This project aims to predict customer churn for a telecommunications company. By
 Customer churn is a major challenge in the telecom industry.  
 This project applies Exploratory Data Analysis (EDA), statistical tests, and machine learning to predict which customers are at risk of leaving.  
 By identifying key factors influencing churn, telecom companies can improve retention strategies and reduce revenue loss.
+
 ---
 ## Dataset
 - Source: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
@@ -60,7 +61,8 @@ Some key findings:
 ---
 ## Results
 - The model can correctly identify most customers at risk of churn.
-- **Top features influencing churn:**
+
+  **Top features influencing churn:**
   1. Contract type
   2. Monthly charges
   3. Tenure
